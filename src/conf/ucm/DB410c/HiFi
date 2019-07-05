@@ -102,7 +102,7 @@ SectionDevice."Earpiece" {
 	}
 }
 
-SectionDevice."Handset" {
+SectionDevice."HeadsetMic" {
 	Comment "Headset Microphone"
 
 	EnableSequence [
@@ -125,7 +125,7 @@ SectionDevice."Handset" {
 	}
 }
 
-SectionDevice."Primarymic" {
+SectionDevice."PrimaryMic" {
 	Comment "Primary Microphone"
 
 	EnableSequence [
@@ -146,7 +146,7 @@ SectionDevice."Primarymic" {
 	}
 }
 
-SectionDevice."Secondarymic" {
+SectionDevice."SecondaryMic" {
 	Comment "Secondary Microphone"
 
 	EnableSequence [
@@ -169,7 +169,7 @@ SectionDevice."Secondarymic" {
 	}
 }
 
-SectionDevice."DMIC" {
+SectionDevice."DigitalMic" {
 	Comment "Digital Microphone"
 
 	EnableSequence [
