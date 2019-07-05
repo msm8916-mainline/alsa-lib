@@ -40,6 +40,7 @@ HDAudio-Lenovo-DualCodecs \
 kblrt5660 \
 LENOVO-80XF-LenovoMIIX320_10ICR-LNVNB161216 \
 msm8916 \
+msm8916-samsung-a2015 \
 PandaBoard \
 PandaBoardES \
 PAZ00 \
